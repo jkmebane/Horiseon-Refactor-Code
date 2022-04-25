@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header information */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* hero section */
+
 main.hero {
     height: 800px;
     width: 100%;
@@ -60,6 +64,8 @@ main.hero {
     background-position: center;
 }
 
+
+/* article class content section */
 article.content {
     width: 75%;
     display: inline-block;
@@ -133,6 +139,8 @@ section.social-media-marketing {
     margin-left: 25px;
 }
 
+/* articles class benefits section */
+
 article.benefits {
     margin-right: 20px;
     padding: 20px;
@@ -193,6 +201,9 @@ figure.benefit-cost {
     text-align: center;
 }
 
+
+/* Footer Section  */
+
 footer {
     padding: 30px;
     clear: both;
@@ -200,6 +211,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
